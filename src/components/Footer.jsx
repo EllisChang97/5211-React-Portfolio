@@ -1,8 +1,8 @@
 export default function Footer(){
     return (
-        <header id="footer">
+        <div id="footer">
             <p id="copyright">&#169; Copyright Ellis Chang 2023.</p>
             
-        </header>
+        </div>
     )
 }
