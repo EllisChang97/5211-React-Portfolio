@@ -19,7 +19,7 @@ function MySkill() {
             <div className='skills-container'>
                 {data.map(item => (
                 <div className='a-skill'>
-                    <img className="skill-image" src={item.image_url} />
+                    <img className="skill-image" alt="" src={item.image_url} />
                     <h2>{item.name}</h2>
                 </div>
                 ))}

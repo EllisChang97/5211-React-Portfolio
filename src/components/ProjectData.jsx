@@ -21,7 +21,7 @@ function MyProject() {
               <div className="a_project">
                   
                   <h2>{item.title}</h2>
-                  <img className="project_image" src={item.image} />
+                  <img className="project_image" alt="" src={item.image} />
                   <p className="project_description">{item.content}</p>
               </div>
               ))}
