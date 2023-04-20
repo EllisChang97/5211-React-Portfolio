@@ -3,7 +3,6 @@
 
 .App {
   color: #D6D5D5;
-  /* background-color: #18191B; */
   font-family: figtree;
 }
 
@@ -66,10 +65,8 @@
 .a_project{
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
   align-items: center;
   width: 40%;
-  border: 1px solid red;
 }
 
 .project_image{
@@ -157,14 +154,5 @@
   width: 50px;
   height: 50px;
 }
-
-
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 
 
