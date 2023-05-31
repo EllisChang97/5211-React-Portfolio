@@ -1,9 +1,10 @@
 [{  "id":1,
     "title":"Pokemon CSS Animation",    
-    "url":"http:\/\/www.wehner.biz\/ipsum-ut-illum-odio",   
+    "url":"http:\/\/www.wehner.biz\/ipsum-ut-illum-odio", 
+    "githubLink":"https://github.com/EllisChang97/Pokeball_Animation",  
     "slug":"officia-molestiae-incidunt-vel-quas",   
     "image":"\/images\/projects\/01LnyezuCjVQSGKxSI4k0910g2Y3aimtd3Uczm8o.png", 
-    "content":"A fun interactive site that lets you choose your starter Pokemon!",  
+    "content":"A fun interactive site that lets you choose your starter Pokemon! Leveraged CSS animation properties such as keyframes, transforms and transitions. Utilized JavaScript to enhance animations and create interactive user experiences, such astriggering animations on user input.",  
     "type_id":3,"user_id":1,    
     "created_at":"2023-04-18T17:01:49.000000Z", 
     "updated_at":"2023-04-18T17:03:50.000000Z", 
@@ -20,4 +21,87 @@
             "title":"Earum itaque expedita in dicta esse et possimus harum.",
             "created_at":"2023-04-18T17:01:48.000000Z",
             "updated_at":"2023-04-18T17:01:48.000000Z"}},
-{"id":2,"title":"Podmark","url":"http:\/\/www.schuppe.com\/impedit-consequatur-vitae-illum-eos.html","slug":"id-sunt-aperiam-iure-minus-eum-corrupti","image":"\/images\/projects\/zn2JRNoHs15HqXg86DgxlpHl4FPftCjEmyLoAG3P.png","content":"Allows users to record podcast snippets that they enjoyed and want to remember.","type_id":1,"user_id":1,"created_at":"2023-04-18T17:01:49.000000Z","updated_at":"2023-04-18T17:04:00.000000Z","user":{"id":1,"first":"Jordane","last":"Hauck","email":"constance94@example.net","email_verified_at":"2023-04-18T17:01:48.000000Z","created_at":"2023-04-18T17:01:48.000000Z","updated_at":"2023-04-18T17:01:48.000000Z"},"type":{"id":1,"title":"Accusamus magnam tempora perferendis voluptatem.","created_at":"2023-04-18T17:01:48.000000Z","updated_at":"2023-04-18T17:01:48.000000Z"}},{"id":3,"title":"API Weather Station","url":"http:\/\/schmidt.biz\/eius-similique-est-ipsam-odit-quo-sed.html","slug":"quos-quisquam-fugiat-aut-eos-esse-et-nihil-nihil","image":"\/images\/projects\/S4O7zTf1GQgsL1N49dbnf0IzpEFG2cQdsInvTqux.png","content":"Easily find out what the real time weather is in the city you want.","type_id":2,"user_id":2,"created_at":"2023-04-18T17:01:49.000000Z","updated_at":"2023-04-18T17:04:13.000000Z","user":{"id":2,"first":"Roscoe","last":"Hegmann","email":"gideon.batz@example.net","email_verified_at":"2023-04-18T17:01:48.000000Z","created_at":"2023-04-18T17:01:48.000000Z","updated_at":"2023-04-18T17:01:48.000000Z"},"type":{"id":2,"title":"Nisi aut ut ipsum incidunt ut.","created_at":"2023-04-18T17:01:48.000000Z","updated_at":"2023-04-18T17:01:48.000000Z"}},{"id":4,"title":"Humber Home Page","url":"http:\/\/www.cremin.com\/","slug":"fugit-atque-nesciunt-neque-veritatis","image":"\/images\/projects\/bF2XNxaYdOe2u9am2jnlEFxF7Gfmb8uxqsHODJJW.png","content":"Created the frontend of the Humber Current Website in collaboration with a UI designer and content strategist.","type_id":3,"user_id":2,"created_at":"2023-04-18T17:01:49.000000Z","updated_at":"2023-04-18T17:04:31.000000Z","user":{"id":2,"first":"Roscoe","last":"Hegmann","email":"gideon.batz@example.net","email_verified_at":"2023-04-18T17:01:48.000000Z","created_at":"2023-04-18T17:01:48.000000Z","updated_at":"2023-04-18T17:01:48.000000Z"},"type":{"id":3,"title":"Earum itaque expedita in dicta esse et possimus harum.","created_at":"2023-04-18T17:01:48.000000Z","updated_at":"2023-04-18T17:01:48.000000Z"}}]
+{    "id": 2,
+    "title": "Recipe Generator",
+    "url": "http://www.schuppe.com/impedit-consequatur-vitae-illum-eos.html",
+    "githubLink": "https://www.apple.com/",
+    "slug": "id-sunt-aperiam-iure-minus-eum-corrupti",
+    "image": "/images/projects/Dish-Discoverer.png",
+    "content": "Search food and get inspired with recommended dishes. Utilized the Edamam API to obtain recipe data for recommendations. Integrated the YouTube API to recommend 5 YouTube videos for each dish. Implemented the website using Node.js, Express, and Pug.",
+    "type_id": 1,
+    "user_id": 1,
+    "created_at": "2023-04-18T17:01:49.000000Z",
+    "updated_at": "2023-04-18T17:04:00.000000Z",
+    "user": {
+        "id": 1,
+        "first": "Jordane",
+        "last": "Hauck",
+        "email": "constance94@example.net",
+        "email_verified_at": "2023-04-18T17:01:48.000000Z",
+        "created_at": "2023-04-18T17:01:48.000000Z",
+        "updated_at": "2023-04-18T17:01:48.000000Z"
+    },
+    "type": {
+        "id": 1,
+        "title": "Accusamus magnam tempora perferendis voluptatem.",
+        "created_at": "2023-04-18T17:01:48.000000Z",
+        "updated_at": "2023-04-18T17:01:48.000000Z"
+    }
+    },
+    {
+    "id": 3,
+    "title": "Pokemon Card Shop",
+    "url": "http://schmidt.biz/eius-similique-est-ipsam-odit-quo-sed.html",
+    "githubLink": "apple.com",
+    "slug": "quos-quisquam-fugiat-aut-eos-esse-et-nihil-nihil",
+    "image": "/images/projects/pokemon-card-shop.png",
+    "content": "Mock Pokémon card website displaying products for sale. Developed a NodeJS website using Express with a home, about and products page. Created a MongoDB database to store product information such as images, card names, and pricing data.",
+    "type_id": 2,
+    "user_id": 2,
+    "created_at": "2023-04-18T17:01:49.000000Z",
+    "updated_at": "2023-04-18T17:04:13.000000Z",
+    "user": {
+        "id": 2,
+        "first": "Roscoe",
+        "last": "Hegmann",
+        "email": "gideon.batz@example.net",
+        "email_verified_at": "2023-04-18T17:01:48.000000Z",
+        "created_at": "2023-04-18T17:01:48.000000Z",
+        "updated_at": "2023-04-18T17:01:48.000000Z"
+    },
+    "type": {
+        "id": 2,
+        "title": "Nisi aut ut ipsum incidunt ut.",
+        "created_at": "2023-04-18T17:01:48.000000Z",
+        "updated_at": "2023-04-18T17:01:48.000000Z"
+    }
+    },
+    {
+        "id": 4,
+        "title": "Humber Home Page",
+        "url": "http://www.cremin.com/",
+        "githubLink": "apple.com",
+        "slug": "fugit-atque-nesciunt-neque-veritatis",
+        "image": "/images/projects/bF2XNxaYdOe2u9am2jnlEFxF7Gfmb8uxqsHODJJW.png",
+        "content": "Created the frontend of the Humber Current Website in collaboration with a UI designer and content strategist.",
+        "type_id": 3,
+        "user_id": 2,
+        "created_at": "2023-04-18T17:01:49.000000Z",
+        "updated_at": "2023-04-18T17:04:31.000000Z",
+        "user": {
+          "id": 2,
+          "first": "Roscoe",
+          "last": "Hegmann",
+          "email": "gideon.batz@example.net",
+          "email_verified_at": "2023-04-18T17:01:48.000000Z",
+          "created_at": "2023-04-18T17:01:48.000000Z",
+          "updated_at": "2023-04-18T17:01:48.000000Z"
+        },
+        "type": {
+          "id": 3,
+          "title": "Earum itaque expedita in dicta esse et possimus harum.",
+          "created_at": "2023-04-18T17:01:48.000000Z",
+          "updated_at": "2023-04-18T17:01:48.000000Z"
+        }
+      }
+    ]      
