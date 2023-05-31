@@ -3,6 +3,7 @@ import MyProject from "./ProjectData"
 import MySkill from "./SkillData"
 import LandingPage from "./LandingPage"
 import MyContact from "./Contact"
+import ResumeButton from "./ResumeButton"
 
 
 
@@ -15,6 +16,7 @@ export default function Body(){
             <MyEducation />
             <MySkill />
             <MyContact />
+            <ResumeButton />
         </div>
             
     )

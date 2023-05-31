@@ -198,7 +198,7 @@
   flex-wrap: wrap;
   gap: 30px;
   margin-top: 20px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .contact_image {
@@ -210,6 +210,30 @@
 
 .contact_image:hover{
   color: #C44900;
+}
+
+#resume-button-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+#resume-button{
+  font-family: 'Figtree, sans-serif';
+  background-color: #D6D5D5;
+  color: #18191B;
+  font-size: 1.2em;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#resume-button:hover {
+  background-color: #A9A8A8;
 }
 
 #copyright {
