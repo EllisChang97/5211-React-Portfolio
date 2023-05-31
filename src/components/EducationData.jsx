@@ -18,7 +18,8 @@ function MyEducation() {
       {data.map(item => (
         <div>
           <h2 className="degree-title">{item.degree}</h2>
-          <p className="education-institution">{item.institution}</p>
+          <h3 className="education-institution">{item.institution}</h3>
+          <p className="education-duration">{item.start_date} - {item.end_date}</p>
         </div>
       ))}
     </div>

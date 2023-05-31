@@ -68,7 +68,6 @@
   flex-direction: column;
   align-items: center;
   width: 40%;
-  border: 1px solid red;
 }
 
 
@@ -103,7 +102,7 @@
   text-align: center;
   z-index: 1;
   width: 80%;
-  color: #A9A8A8;
+  color: hsl(0, 1%, 66%);
   font-size: 1.2em;
   opacity: 0;
   transition: opacity 0.3s ease;
@@ -134,6 +133,7 @@
 #education_title > h1 {
   text-align: center;
   margin-top: 200px;
+  margin-bottom: 35px;
 }
 
 .degree-title {
@@ -144,9 +144,15 @@
   text-align: center;
 }
 
+.education-duration {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
 #skills_title {
   text-align: center;
   margin-top: 200px;
+  margin-bottom: 30px;
 }
 
 .a-skill {
@@ -180,6 +186,7 @@
   margin-right: auto;
   margin-top: 100px;
   text-align: center;
+  margin-bottom: 35px;
 }
 
 #contacts-container {
@@ -202,10 +209,12 @@
 }
 
 .contact_image:hover{
-  color: blue;
+  color: #C44900;
 }
 
-
+#copyright {
+  text-align: center;
+}
 
 @media screen and (max-width:1200px) {
   
@@ -238,7 +247,6 @@
     flex-direction: column;
     align-items: center;
     width: 80%;
-    /* border: 1px solid red; */
   }
   
   .project_image_container {
@@ -246,7 +254,6 @@
     display: block;
     display: flex;
     flex-direction: column;
-    border: 1px solid blue;
   }
   
   .project_image {
@@ -304,6 +311,6 @@
   .project_description {
     width: 100%;
   }
-  
+
 }
 
